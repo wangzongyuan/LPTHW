@@ -10,3 +10,6 @@ https://learnpythonthehardway.org/
 
 《笨办法学Python》（第四版）Python3版
 https://zhuanlan.zhihu.com/p/24874211
+
+--练习日志
+2017.09.27 完成练习题至习题4
